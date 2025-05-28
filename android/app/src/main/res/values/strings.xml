@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pigeon</string>
+    <string name="facebook_app_id">1150974872710347</string>
+    <string name="fb_login_protocol_scheme">fb1150974872710347</string>
+    <string name="facebook_client_token">25a2c1d809825e79d715a3402082dd68</string>
+</resources>

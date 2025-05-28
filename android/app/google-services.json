@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "13055601155",
+    "project_id": "pigeon-carpe",
+    "storage_bucket": "pigeon-carpe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13055601155:android:031c745e42526d1f553c36",
+        "android_client_info": {
+          "package_name": "com.carpe.pigeon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13055601155-9hhtrq6i31nlct0b2o64tjere4vk534a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePAr063ai0l8v45qCH9YgPjrtUbE6B18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13055601155-9hhtrq6i31nlct0b2o64tjere4vk534a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "13055601155-nnid1fddld5cn14dg21bjh54e1bg7uku.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pigeon"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13055601155:android:b3b903d3c909ee1b553c36",
+        "android_client_info": {
+          "package_name": "com.example.pigeon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13055601155-9hhtrq6i31nlct0b2o64tjere4vk534a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePAr063ai0l8v45qCH9YgPjrtUbE6B18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13055601155-9hhtrq6i31nlct0b2o64tjere4vk534a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "13055601155-nnid1fddld5cn14dg21bjh54e1bg7uku.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pigeon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

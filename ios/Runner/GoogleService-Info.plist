@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>13055601155-nnid1fddld5cn14dg21bjh54e1bg7uku.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.13055601155-nnid1fddld5cn14dg21bjh54e1bg7uku</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAQIGc42YDBOnj2H24NoZiHEE8j9zSyuco</string>
+	<key>GCM_SENDER_ID</key>
+	<string>13055601155</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pigeon</string>
+	<key>PROJECT_ID</key>
+	<string>pigeon-carpe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pigeon-carpe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:13055601155:ios:536fba2b20fcb29f553c36</string>
+</dict>
+</plist>
